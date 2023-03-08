@@ -1,0 +1,28 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unitest.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocson4689/hola.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ngoc Son",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngocson4689/hola/issues"
+  },
+  "homepage": "https://github.com/ngocson4689/hola#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
